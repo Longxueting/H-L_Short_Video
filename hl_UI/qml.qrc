@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Login/LoginUI.qml</file>
+        <file>Message/MessageUI.qml</file>
+        <file>Netizen/NetizenUI.qml</file>
+        <file>PlayVideo/PlayVideoUI.qml</file>
+        <file>Netizen/ModifyInfo/ModifyInfoUI.qml</file>
+        <file>PostVideo/PostVideoUI.qml</file>
+        <file>Attention/AttentionUI.qml</file>
+        <file>Login/AdvertUI.qml</file>
+        <file>Subject.qml</file>
+        <file>PlayVideo/CommentUI.qml</file>
+        <file>Attention/AttentionVideoUI.qml</file>
+        <file>HeadImage.qml</file>
+        <file>Netizen/NetizenInfoUI.qml</file>
+        <file>Netizen/NetizenRelatedUI.qml</file>
+        <file>Netizen/MyWorkUI.qml</file>
+        <file>Netizen/MyFavoriteUI.qml</file>
+        <file>Netizen/VideoBrowsingUI.qml</file>
+        <file>Netizen/ModifyInfo/InfoItem.qml</file>
+        <file>Netizen/ModifyInfo/ChangeAgeUI.qml</file>
+        <file>Netizen/ModifyInfo/ChangeIconUI.qml</file>
+        <file>Netizen/ModifyInfo/ChangeSexUI.qml</file>
+        <file>Netizen/ModifyInfo/ChangeMessageUI.qml</file>
+    </qresource>
+</RCC>
